@@ -1,4 +1,7 @@
 # Simon Game
+It's a simple memory game where the four buttons are displayed and blinked randomly. Then player has to click on respective buttons sequencially otherwise will loose the game 
+
+
 <img width="1088" alt="Screenshot 2022-05-22 at 3 19 11 PM" src="https://user-images.githubusercontent.com/68969703/169689539-c6b56606-5a6f-46bf-94d5-babcfe3d5641.png">
 
 Current level
